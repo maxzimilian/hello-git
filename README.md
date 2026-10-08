@@ -1,4 +1,4 @@
-#### hello-git
+# hello-git
 Przykładowe repozytorium do nauki obsługi gita
-#### Credits
+# Credits
 Stworzone na zajecia
